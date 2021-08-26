@@ -49,9 +49,18 @@
 	max-width: 100%;
 	max-height: 100%;
 }
-.iFrameStyle {
+.newsletterStyle{
+	border: 0;
+	max-width: 100%;
+	max-height: 100%;
+}
+.iFrameStyleCalendar {
 	width:100%;
 	height:600px;
+}
+.iFrameStyleNewsletter {
+	width:100%;
+	height:100%;
 }
 
 
